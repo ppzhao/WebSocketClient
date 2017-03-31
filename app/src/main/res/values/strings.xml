@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SocketClient</string>
+    <string name="string_socket_server_address">ws:/10.201.6.70:8887/</string>
+</resources>
